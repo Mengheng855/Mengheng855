@@ -26,7 +26,6 @@ I'm a fourth-year **Information Technology student at the Royal University of Ph
 
 **HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React • Vue.js**
 
-## 🛠️ Tech Stack
 
 ### 💻 Backend Development
 
