@@ -2,7 +2,7 @@
 
 ### 💻 Junior Backend Developer
 
-I’m a fourth-year **Information Technology student at the Royal University of Phnom Penh**, passionate about backend development and building reliable, scalable web applications and RESTful APIs.
+I'm a fourth-year **Information Technology student at the Royal University of Phnom Penh**, passionate about backend development, RESTful APIs, and building reliable web applications.
 
 ---
 
@@ -12,6 +12,8 @@ I’m a fourth-year **Information Technology student at the Royal University of 
 - 💻 Focused on **Backend Development**
 - 🔨 Experienced in building **RESTful APIs and web applications**
 - 🔐 Interested in **Authentication, Security & API Development**
+- 🌐 Also experienced in **Frontend Development**
+- 🐳 Familiar with **Docker and deployment**
 - 🌱 Continuously improving my software engineering skills
 - 📍 Cambodia
 
@@ -19,44 +21,71 @@ I’m a fourth-year **Information Technology student at the Royal University of 
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
+### 💻 Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,django,flask,nodejs,express" />
 </p>
 
+**PHP • Laravel • Java • Spring Boot • Python • Django • Flask • Node.js • Express.js**
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" />
+</p>
+
+**HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React • Vue.js**
+
 ### 🗄️ Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### 🔐 Authentication & API
-<p>
-  JWT • OAuth 2.0 • REST API • Google Login
-</p>
+**MySQL • PostgreSQL**
+
+### 🔐 Authentication & Security
+
+**JWT • OAuth 2.0 • Spring Security • BCrypt • OTP Verification**
+
+### 🔌 API Development
+
+**REST API • JSON • API Authentication • API Integration**
 
 ### ⚙️ Tools & DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea" />
 </p>
+
+**Git • GitHub • Docker • Linux • Postman • VS Code • IntelliJ IDEA**
+
+### ☁️ Deployment & Infrastructure
+
+**Vercel • VPS • Cloudflare • Docker Compose**
 
 ---
 
 ## 📌 Featured Projects
 
 ### 📚 E-Library System
-A library management system with book borrowing, student registration, and admin management.
+
+A library management system for managing books, students, borrowing, and administrative operations.
 
 **Tech:** Laravel / Spring Boot • MySQL • REST API
 
-### 🛒 E-Commerce API
-Backend API for an e-commerce application with authentication, product management, and database operations.
+### 🔐 Authentication & Security System
 
-**Tech:** Laravel • REST API • MySQL • JWT
-
-### 🔐 Authentication System
-Secure authentication system with registration, login, JWT authentication, OTP verification, and password recovery.
+Authentication system with registration, login, JWT authentication, OTP verification, password security, and role-based authorization.
 
 **Tech:** Spring Boot • Spring Security • JWT • MySQL
+
+### 🛒 E-Commerce System
+
+Backend system for managing products, users, authentication, and e-commerce operations.
+
+**Tech:** Laravel • REST API • MySQL
 
 ---
 
