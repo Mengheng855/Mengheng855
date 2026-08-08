@@ -56,10 +56,10 @@ I'm a fourth-year **Information Technology student at the Royal University of Ph
 ### ⚙️ Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
 </p>
 
-**Git • GitHub • Docker • Linux • Postman • VS Code • IntelliJ IDEA**
+**Git • GitHub • Docker • Postman • VS Code • IntelliJ IDEA**
 
 ### ☁️ Deployment & Infrastructure
 
