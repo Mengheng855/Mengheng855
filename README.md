@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kheang Mengheng
 
-### 💻 Junior Backend Developer
+### 💻 Junior Backend Developer | Laravel • Spring Boot • REST API
 
-I'm a fourth-year **Information Technology student at the Royal University of Phnom Penh**, passionate about backend development, RESTful APIs, and building reliable web applications.
+I'm a fourth-year **Information Technology student at the Royal University of Phnom Penh**, passionate about backend development, RESTful APIs, security, and building reliable web applications.
 
 ---
 
@@ -92,18 +92,28 @@ Backend system for managing products, users, authentication, and e-commerce oper
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mengheng855&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mengheng855&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mengheng855&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mengheng855&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mengheng855&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://github.com/Mengheng855">
-    <img src="https://img.shields.io/badge/GitHub-Mengheng855-black?style=for-the-badge&logo=github" />
-  </a>
+<p align="left">
+
+<a href="https://github.com/Mengheng855">
+  <img src="https://img.shields.io/badge/GitHub-Mengheng855-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 ---
