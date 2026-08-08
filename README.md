@@ -2,52 +2,68 @@
 
 ### 💻 Junior Backend Developer | Laravel • Spring Boot • REST API
 
-I'm a fourth-year **Information Technology student at the Royal University of Phnom Penh**, passionate about backend development, RESTful APIs, authentication, security, payment integration, and building reliable web applications.
+I'm a fourth-year **Information Technology student at the Royal University of Phnom Penh**, passionate about backend development, RESTful APIs, security, and building reliable web applications.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Fourth-year Information Technology student
-* 💻 Focused on **Backend Development**
-* 🔨 Experienced in building **RESTful APIs and web applications**
-* 🔐 Interested in **Authentication, Security & API Development**
-* 💳 Experience integrating **Bakong API**
-* 🗄️ Experienced with **MySQL and PostgreSQL**
-* 🐳 Familiar with **Docker and deployment**
-* ☁️ Experience deploying applications using **Vercel, Netlify, and VPS**
-* 🌱 Continuously improving my software engineering skills
-* 📍 Cambodia
+- 🎓 Fourth-year Information Technology student
+- 💻 Focused on **Backend Development**
+- 🔨 Experienced in building **RESTful APIs and web applications**
+- 🔐 Interested in **Authentication, Security & API Development**
+- 🌐 Also experienced in **Frontend Development**
+- 🐳 Familiar with **Docker and deployment**
+- 🌱 Continuously improving my software engineering skills
+- 📍 Cambodia
 
 ---
-
 ### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" />
+</p>
 
 **HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React • Vue.js**
 
+
 ### 💻 Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,django,flask,nodejs,express" />
+</p>
 
 **PHP • Laravel • Java • Spring Boot • Python • Django • Flask • Node.js • Express.js**
 
+
+
 ### 🗄️ Database
 
-**MySQL • PostgreSQL • Supabase • Neon**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+**MySQL • PostgreSQL**
 
 ### 🔐 Authentication & Security
 
 **JWT • OAuth 2.0 • Spring Security • BCrypt • OTP Verification**
 
-### 💳 Payment & API Integration
+### 🔌 API Development
 
-**REST API • JSON • API Authentication • API Integration • Bakong API**
+**REST API • JSON • API Authentication • API Integration**
 
 ### ⚙️ Tools & DevOps
 
-**Git • GitHub • Docker • Docker Compose • Postman • VS Code • IntelliJ IDEA**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
+</p>
+
+**Git • GitHub • Docker • Postman • VS Code • IntelliJ IDEA**
 
 ### ☁️ Deployment & Infrastructure
 
-**Vercel • Netlify • VPS • Cloudflare • Supabase • Neon**
+**Vercel • VPS • Cloudflare • Docker Compose**
 
 ---
 
@@ -58,12 +74,6 @@ I'm a fourth-year **Information Technology student at the Royal University of Ph
 A library management system for managing books, students, borrowing, and administrative operations.
 
 **Tech:** Laravel / Spring Boot • MySQL • REST API
-
-### 💳 Bakong Payment Integration
-
-Integrated **Bakong payment functionality** into a web application, including API communication and payment flow handling.
-
-**Tech:** Backend API • Bakong API • REST API
 
 ### 🔐 Authentication & Security System
 
@@ -81,13 +91,30 @@ Backend system for managing products, users, authentication, and e-commerce oper
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mengheng855&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mengheng855&theme=tokyonight" height="180"/>
+</p>
+
 ---
 
 ## 📈 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mengheng855&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Mengheng855">
+  <img src="https://img.shields.io/badge/GitHub-Mengheng855-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
 
 ---
 
