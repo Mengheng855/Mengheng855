@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kheang Mengheng
 
-### 💻 Junior Backend Developer | Laravel • Spring Boot • REST API
+### 💻 Junior Backend Developer 
 
 I'm a fourth-year **Information Technology student at the Royal University of Phnom Penh**, passionate about backend development, RESTful APIs, security, and building reliable web applications.
 
