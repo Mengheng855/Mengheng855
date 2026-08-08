@@ -18,6 +18,13 @@ I'm a fourth-year **Information Technology student at the Royal University of Ph
 - 📍 Cambodia
 
 ---
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" />
+</p>
+
+**HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React • Vue.js**
 
 ## 🛠️ Tech Stack
 
@@ -29,13 +36,7 @@ I'm a fourth-year **Information Technology student at the Royal University of Ph
 
 **PHP • Laravel • Java • Spring Boot • Python • Django • Flask • Node.js • Express.js**
 
-### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" />
-</p>
-
-**HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React • Vue.js**
 
 ### 🗄️ Database
 
